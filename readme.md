@@ -28,3 +28,5 @@ Execute o docker
 ```bash
 docker-compose up -d
 ```
+
+Acesse o ambiente de desenvolvimento: **http://localhost:8080**
